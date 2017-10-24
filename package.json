@@ -4,7 +4,7 @@
   "description": "ReactJS component for displaying infinite list of elements with arbitrary height.",
   "author": "Reslav Hollos",
   "license": "MIT",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "scripts": {
     "compile": "babel src/ --out-dir lib",
     "prepublish": "npm run compile",
